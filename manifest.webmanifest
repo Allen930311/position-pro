@@ -1,0 +1,27 @@
+{
+    "name": "Position Pro",
+    "short_name": "Position Pro",
+    "description": "精準交易倉位計算機",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#0c0d10",
+    "theme_color": "#818cf8",
+    "icons": [
+        {
+            "src": "icon-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}

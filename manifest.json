@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Position Pro - 倉位計算機",
+    "description": "精準計算交易倉位的高精度工具，支援 Chrome 與 PWA。",
+    "version": "1.0.0",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "開啟計算機"
+    },
+    "permissions": ["storage"],
+    "icons": {
+        "128": "icon-128.png"
+    }
+}
